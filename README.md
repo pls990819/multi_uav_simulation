@@ -33,4 +33,4 @@ bash run_formation.sh 3
 ## Acknowledgements
 Thanks for XTDrone(Xiao K, Tan S, Wang G, et al. XTDrone: A customizable multi-rotor UAVs simulation
 platform[C]//2020 4th International Conference on Robotics and Automation Sciences (ICRAS).
-IEEE, 2020: 55-61), the simulator of my experiment is developed based on this platform.
+IEEE, 2020: 55-61), the simulation is developed based on this platform.
